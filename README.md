@@ -47,4 +47,3 @@ hacking. Whenever you modify any of the source files inside the `/src` folder,
 the module bundler ([Webpack](http://webpack.github.io/)) will recompile the
 app on the fly and refresh all the connected browsers.
 
-For more info please refer to [getting started](./docs/getting-started.md) guide to download and run the project (Node.js >= 6.5)
